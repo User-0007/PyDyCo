@@ -15,8 +15,8 @@
 
 ## Installation
 
-( Installation instructions here... Loading )
+(Installation instructions coming soon...)
 
 ## Usage
 
-( Usage instructions here... Loading )
+( Usage instructions coming soon...)

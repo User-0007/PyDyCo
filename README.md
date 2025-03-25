@@ -1,6 +1,6 @@
 # PyDYCO
 
-**PyDYCO** is a thermodynamic solver primarily used for thermoelectricity, with the acronym standing for **Dynamique Couplée**. This solver leverages **Spice** and **Python** to calculate the coupling between energy current and electric current in 2D materials.
+**PyDYCO** is a thermodynamic solver primarily used for thermoelectricity, with the acronym standing for **Dynamique Couplée**. This solver leverages **NgSpice** and **Python** to calculate the coupling between energy current and electric current in 2D materials.
 
 ## Features
 
@@ -10,12 +10,13 @@
 
 ## Technologies Used
 
-- **Spice** for circuit simulation.
-- **Python** for solving and computation.
-
+- **PySpice** Library and **NgSpice** for circuit simulation.
+- **Python** for Network creation and computation.
+- **ParaView** for data visualization and post-processing.
+  
 ## Installation
 
-(Installation instructions coming soon...)
+To install PySpice, please refer to the official installation guide on [Fabrice Salvaire's website](https://pyspice.fabrice-salvaire.fr/).
 
 ## Usage
 

@@ -19,7 +19,8 @@
 To install PySpice, please refer to the official installation guide on [Fabrice Salvaire's website](https://pyspice.fabrice-salvaire.fr/).
 
 ## Usage
-
-<img src="Pydyco_Network2.png" alt="Networks simulated by PyDYCO" width="300" height="300">
+<p align="center">
+<img src="Pydyco_Network2.png" alt="Networks simulated by PyDYCO" width="300" height="250">
+</p>
 
 ( Usage instructions coming soon...)

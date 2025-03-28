@@ -20,4 +20,6 @@ To install PySpice, please refer to the official installation guide on [Fabrice 
 
 ## Usage
 
-![Texte alternatif](Pydyco_Network2.png)( Usage instructions coming soon...)
+![Networks simulated by PyDYCO](Pydyco_Network2.png)
+
+( Usage instructions coming soon...)

@@ -19,8 +19,9 @@
 To install PySpice, please refer to the official installation guide on [Fabrice Salvaire's website](https://pyspice.fabrice-salvaire.fr/).
 
 ## Usage
+**PyDYCO** runs thermodynamic networks, and in this context, it's applied to thermoelectricity. The user defines the dimensions of the network, the size and properties of each element (thermoelectric dipole), the boundary conditions, and the operating mode.
 <p align="center">
-<img src="Pydyco_Network2.png" alt="Networks simulated by PyDYCO" width="300" height="250">
+<img src="Pydyco_Network2.png" alt="7x11 element network simulated by PyDYCO with defined boundary conditions in terms of temperature and electrochemical potential." width="300" height="250">
 </p>
 
 ( Usage instructions coming soon...)
